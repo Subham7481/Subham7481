@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subham Kumar</h1>
-<h3 align="center">💻 Mobile App Developer | iOS | SwiftUI| React-Native | Firebase | Problem Solver | Node js</h3>
+<h3 align="center">💻 Mobile App Developer | iOS | SwiftUI  | React-Native | Firebase | Problem Solver | Node js</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subham7481&label=Profile%20views&color=0e75b6&style=flat" alt="subham7481" /> </p>
 
