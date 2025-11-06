@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Subham Kumar</h1>
-<h3 align="center">💻 Mobile App Developer | iOS | SwiftUI  | React-Native | Firebase | Problem Solver | Node js</h3>
+<h3 align="center">💻 Mobile App Developer | iOS | SwiftUI  | React-Native | Firebase | Problem Solver </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subham7481&label=Profile%20views&color=0e75b6&style=flat" alt="subham7481" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subham7481" alt="subham7481" /></a> </p>
 
-- 🔭 I’m currently working on **EatXtra(Food Recipe app), Node Js**
+- 🔭 I’m currently working on **ShopNext(E-commerce app), React-native**
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **React-native**
 
-- 👯 I’m looking to collaborate on **iOS applications**
+- 👯 I’m looking to collaborate on **Mobile applications**
 
 - 📫 How to reach me **patelsk7481@gmail.com**
 
